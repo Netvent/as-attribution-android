@@ -15,7 +15,7 @@ The AppSamurai Attribution SDK is available via:
 
    dependencies {
        // Be sure that you are using latest version
-       implementation 'com.ppsmr.attribution.attributionsdk:attribution:1.0.1'
+       implementation 'com.ppsmr.attribution.attributionsdk:attribution:<latest-version>'
    }
    ```
 
