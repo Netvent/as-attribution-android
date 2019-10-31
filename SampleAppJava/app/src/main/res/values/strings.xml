@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SampleAppJava</string>
+    <string name="send_simple_event">Send Simple Event</string>
+    <string name="send_event_with_data">Send Event With Data</string>
+</resources>
