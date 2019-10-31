@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SampleAppKotlin</string>
+    <string name="send_simple_event">Send Simple Event</string>
+    <string name="send_event_with_data">SEND EVENT WITH DATA</string>
+</resources>
