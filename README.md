@@ -23,6 +23,8 @@ The AppSamurai Attribution SDK is available via:
 Minimum supported SDK version is 14. Be sure that minSdkVersion in your gradle file isn't lower than 14.
 
 ## Usage
+You can check sample applications in the repository to see the examples of how to integrate and use the SDK.
+
 ### SDK Import
 **Kotlin Users**
 ```kotlin
