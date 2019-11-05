@@ -38,7 +38,7 @@ import com.ppsmr.attribution.attributionsdk.AttributionSDK;
 
 ### SDK Initialization
 AppSamurai Attribution SDK is required for tracking. Application cannot track any information before SDK initialization is complete.
-In application’s `onCreate` method of the initial activity, call  `AttributionSDK.initialize` function with `applicationId` parameter. This parameter should be your application id from [AppSamurai User Dashboard](https://www.appsamurai.com), you can use your application id for integration purposes. Be sure to call this initialization in each `onCreate` method of initial activities. Check the following codes for sample:
+In application’s `onCreate` method of the initial activity, call  `AttributionSDK.initialize` function with `applicationId` parameter. This parameter should be your application id from [AppSamurai User Dashboard](https://www.appsamurai.com), you can use your application id for integration purposes. Be sure to call this initialization in each `onCreate` method of your initial activities. Check the following codes for sample:
 
 **Kotlin Users**
 ```kotlin
