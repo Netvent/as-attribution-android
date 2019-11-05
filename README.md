@@ -85,6 +85,9 @@ AttributionSDK.setLogLevel(<ASLog.Level>)
 AttributionSDK.Instance.setLogLevel(<ASLog.Level>);
 ```
 
+## Sample Usages
+Sample usages can be found in the repository for both Kotlin and Java.
+
 ## Author
 App Samurai Mobile Team, mobile@appsamurai.com
 ## License
